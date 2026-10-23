@@ -1,5 +1,5 @@
 # Days Between Dates Calculator
-
+[English](README.en.md) | [Русский](README.md)
 A Python command-line utility that calculates the number of days between two dates, taking leap years into account.
 
 ## Table of Contents
@@ -171,3 +171,4 @@ Main functions:
 ├── README.md        # project description (Russian)
 └── README.en.md     # project description (English)
 ```
+author: Serdeshniy K.M
